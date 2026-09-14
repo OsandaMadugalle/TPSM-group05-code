@@ -153,6 +153,10 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 - **TPSM Group 05**
+  - Lihini Gunathilaka (IT23744066)
+  - Manuth Jayasekara (IT23728776)
+  - Osanda Madugalle (IT23555594)
+  - Shazra M H (IT23693586)
 
 ---
 
